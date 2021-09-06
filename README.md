@@ -6,7 +6,7 @@
 
 - Outside of the projects that you can see on my profile, I have also done work with React, P5.js, MATLAB, C#, Raspberry Pi, Unity, and am working on a project using Swift.
 
-- I am certified with Dell Hardware, have done extensive work on Windows, ChromeOS, and Mac OS, and am planning on earning a certification in Software Engineering in the near future.
+- I am certified with Dell Hardware, have done extensive work on Windows, ChromeOS, and Mac OS, and am working on my degree in Computer Science and Engineering.
 
 
 <!---
